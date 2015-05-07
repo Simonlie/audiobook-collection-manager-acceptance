@@ -1,4 +1,5 @@
 # audio book collection manager acceptance tests
+### notes added by simon
 
 This project contains the examples and the Gemfile for a tutorial about Cucumber and Capybara. The tutorial can be found here:
 
